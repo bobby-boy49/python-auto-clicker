@@ -4,4 +4,6 @@ let's you click every second!
 
 check out the pastebin! https://pastebin.com/FwayrjvZ
 
-you need pynput installed $ pip install pynput
+you need pynput installed 
+
+$ pip install pynput
